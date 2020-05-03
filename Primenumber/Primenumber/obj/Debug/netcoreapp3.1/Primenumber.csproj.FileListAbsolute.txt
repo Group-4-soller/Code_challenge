@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.exe
+D:\Sollers\C#Programs\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.deps.json
+D:\Sollers\C#Programs\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.runtimeconfig.json
+D:\Sollers\C#Programs\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.runtimeconfig.dev.json
+D:\Sollers\C#Programs\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.dll
+D:\Sollers\C#Programs\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.pdb
+D:\Sollers\C#Programs\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.AssemblyInfo.cs
+D:\Sollers\C#Programs\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.dll
+D:\Sollers\C#Programs\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.pdb
+D:\Sollers\C#Programs\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.genruntimeconfig.cache
