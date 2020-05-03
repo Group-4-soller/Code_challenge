@@ -1,0 +1,12 @@
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/bin/Debug/netcoreapp3.1/ClockAngle.deps.json
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/bin/Debug/netcoreapp3.1/ClockAngle.runtimeconfig.json
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/bin/Debug/netcoreapp3.1/ClockAngle.runtimeconfig.dev.json
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/bin/Debug/netcoreapp3.1/ClockAngle.dll
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/bin/Debug/netcoreapp3.1/ClockAngle.pdb
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/obj/Debug/netcoreapp3.1/ClockAngle.csprojAssemblyReference.cache
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/obj/Debug/netcoreapp3.1/ClockAngle.csproj.CoreCompileInputs.cache
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/obj/Debug/netcoreapp3.1/ClockAngle.AssemblyInfoInputs.cache
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/obj/Debug/netcoreapp3.1/ClockAngle.AssemblyInfo.cs
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/obj/Debug/netcoreapp3.1/ClockAngle.dll
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/obj/Debug/netcoreapp3.1/ClockAngle.pdb
+/Users/erikm.johnson/Projects/ClockAngle/ClockAngle/obj/Debug/netcoreapp3.1/ClockAngle.genruntimeconfig.cache
