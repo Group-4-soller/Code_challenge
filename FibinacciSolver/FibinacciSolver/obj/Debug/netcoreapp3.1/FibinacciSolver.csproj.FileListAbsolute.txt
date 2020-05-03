@@ -1,0 +1,12 @@
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\obj\Debug\netcoreapp3.1\FibinacciSolver.csproj.CoreCompileInputs.cache
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\obj\Debug\netcoreapp3.1\FibinacciSolver.AssemblyInfoInputs.cache
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\obj\Debug\netcoreapp3.1\FibinacciSolver.AssemblyInfo.cs
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\bin\Debug\netcoreapp3.1\FibinacciSolver.exe
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\bin\Debug\netcoreapp3.1\FibinacciSolver.deps.json
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\bin\Debug\netcoreapp3.1\FibinacciSolver.runtimeconfig.json
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\bin\Debug\netcoreapp3.1\FibinacciSolver.runtimeconfig.dev.json
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\bin\Debug\netcoreapp3.1\FibinacciSolver.dll
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\bin\Debug\netcoreapp3.1\FibinacciSolver.pdb
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\obj\Debug\netcoreapp3.1\FibinacciSolver.dll
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\obj\Debug\netcoreapp3.1\FibinacciSolver.pdb
+C:\Users\zchuc\Desktop\Assignments\C#\fibSolver\FibinacciSolver\FibinacciSolver\obj\Debug\netcoreapp3.1\FibinacciSolver.genruntimeconfig.cache
