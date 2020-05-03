@@ -1,0 +1,13 @@
+J:\git_repo\Code_challenge\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.exe
+J:\git_repo\Code_challenge\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.deps.json
+J:\git_repo\Code_challenge\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.json
+J:\git_repo\Code_challenge\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.dev.json
+J:\git_repo\Code_challenge\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.dll
+J:\git_repo\Code_challenge\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.pdb
+J:\git_repo\Code_challenge\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.csprojAssemblyReference.cache
+J:\git_repo\Code_challenge\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.csproj.CoreCompileInputs.cache
+J:\git_repo\Code_challenge\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfoInputs.cache
+J:\git_repo\Code_challenge\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfo.cs
+J:\git_repo\Code_challenge\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.dll
+J:\git_repo\Code_challenge\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.pdb
+J:\git_repo\Code_challenge\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.genruntimeconfig.cache
